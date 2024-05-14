@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @payjoy-ninja
-- 👀 I’m interested in #laravel #php #Flutter #Vue #JavaScript
-- 🌱 I’m currently learning #Vue #TypeScript
-- 💞️ I love contributing to community. Volunteer/Host @ Laravel Live India
+- 👀 I’m interested in #php #Laravel #Flutter #Vue #JavaScript #TypeScript #Rust
+- 🌱 I’m currently learning Spanish
+- 💞️ I love contributing to community.
 - 📫 You can reach out to me on Twitter @DigitalChauhan
 
 <!---
